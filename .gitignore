@@ -4,3 +4,6 @@
 .local/
 .npm/
 .cache/
+.json
+.csv
+
